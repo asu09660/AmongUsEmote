@@ -1,8 +1,8 @@
 {
-    "serverUrl":  "wss://that-decimal-shelter-prep.trycloudflare.com",
-    "httpsUrl":  "https://that-decimal-shelter-prep.trycloudflare.com",
-    "updatedAt":  "2026-06-03T15:19:37Z",
+    "serverUrl":  "wss://marion-causes-mlb-eur.trycloudflare.com",
+    "httpsUrl":  "https://marion-causes-mlb-eur.trycloudflare.com",
+    "updatedAt":  "2026-06-03T15:20:51Z",
     "relayPort":  9100,
     "relayPid":  20188,
-    "tunnelPid":  11820
+    "tunnelPid":  4544
 }
