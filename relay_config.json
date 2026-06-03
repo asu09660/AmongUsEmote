@@ -1,8 +1,8 @@
 {
-    "serverUrl":  "wss://forwarding-suggests-deposits-kitty.trycloudflare.com",
-    "httpsUrl":  "https://forwarding-suggests-deposits-kitty.trycloudflare.com",
-    "updatedAt":  "2026-06-03T15:16:48Z",
+    "serverUrl":  "wss://that-decimal-shelter-prep.trycloudflare.com",
+    "httpsUrl":  "https://that-decimal-shelter-prep.trycloudflare.com",
+    "updatedAt":  "2026-06-03T15:19:37Z",
     "relayPort":  9100,
-    "relayPid":  20056,
-    "tunnelPid":  18708
+    "relayPid":  20188,
+    "tunnelPid":  11820
 }
