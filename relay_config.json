@@ -1,8 +1,8 @@
 {
-    "serverUrl":  "wss://marion-causes-mlb-eur.trycloudflare.com",
-    "httpsUrl":  "https://marion-causes-mlb-eur.trycloudflare.com",
-    "updatedAt":  "2026-06-03T15:20:51Z",
+    "serverUrl":  "wss://balance-nutrition-sonic-carbon.trycloudflare.com",
+    "httpsUrl":  "https://balance-nutrition-sonic-carbon.trycloudflare.com",
+    "updatedAt":  "2026-06-03T15:25:17Z",
     "relayPort":  9100,
     "relayPid":  20188,
-    "tunnelPid":  4544
+    "tunnelPid":  15148
 }
