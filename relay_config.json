@@ -1,8 +1,8 @@
 {
-    "serverUrl":  "wss://filling-fraction-baghdad-individually.trycloudflare.com",
-    "httpsUrl":  "https://filling-fraction-baghdad-individually.trycloudflare.com",
-    "updatedAt":  "2026-06-03T15:12:00Z",
+    "serverUrl":  "wss://forwarding-suggests-deposits-kitty.trycloudflare.com",
+    "httpsUrl":  "https://forwarding-suggests-deposits-kitty.trycloudflare.com",
+    "updatedAt":  "2026-06-03T15:16:48Z",
     "relayPort":  9100,
     "relayPid":  20056,
-    "tunnelPid":  6920
+    "tunnelPid":  18708
 }
