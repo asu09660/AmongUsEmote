@@ -23,9 +23,20 @@
     body {
       margin: 0;
       font-family: "Segoe UI", "Noto Sans KR", Arial, sans-serif;
-      background: var(--bg);
+      background: var(--bg) url("assets/images/among-us-steam-page-bg.jpg") center top / cover fixed no-repeat;
       color: var(--text);
       line-height: 1.55;
+    }
+
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      z-index: -1;
+      background:
+        linear-gradient(90deg, rgba(16, 19, 22, .94), rgba(16, 19, 22, .72) 48%, rgba(16, 19, 22, .9)),
+        rgba(16, 19, 22, .42);
+      pointer-events: none;
     }
 
     a { color: inherit; }
